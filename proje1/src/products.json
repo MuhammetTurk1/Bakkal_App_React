@@ -1,0 +1,36 @@
+[
+
+{
+    "id":1,
+    "title":"Sakız",
+    "price": 5,
+    "image":"https://marketinevde.com/2217-large_default/koroplast-buzgulu-cop-torbasi-buyuk-boy-cilek-kokulu-15-adet.jpg"
+ 
+},
+
+{
+
+    "id":2,
+    "title":"Ekmek",
+    "price":10,
+    "image":"https://images.migrosone.com/sanalmarket/product/05120000/05120000-a957e2-1650x1650.jpg"
+     
+ },
+
+{
+
+"id":3,
+"title":"Kola",
+"price":30 ,
+"image":"https://cdn.dsmcdn.com/ty25/product/media/images/20201120/23/29453049/92982238/1/1_org_zoom.jpg"
+ 
+},
+ 
+ 
+ { 
+    "id":4,
+    "title":"Yağ",
+    "price":300,
+     "image":"https://productimages.hepsiburada.net/s/35/1500/10463088705586.jpg"
+ }
+]

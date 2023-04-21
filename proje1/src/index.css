@@ -1,0 +1,90 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin:0;
+  border: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #eee;
+ 
+} 
+
+#proo{
+  padding: 10px;
+  background-color: #fff;
+  border:1px solid #ddd;
+  margin-bottom: 20px;
+}
+.header{
+  height: 60px;
+  font-size: 24px;
+  letter-spacing: 1px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   color:white
+}
+.headers{
+  position: sticky;
+  top: 0;
+  display:flex ;
+  align-items: center;
+   justify-content: center;
+   background: linear-gradient(to bottom,green,rgb(75, 168, 109));
+}
+.erdal{
+  height: 60px;
+  padding-right: 10px;
+  padding-top: 5px;
+
+}
+.spann{
+  padding:0 15px;
+  font-weight: bold;
+  font-size: 35px;
+}
+.firstcontainer{
+  display: flex;
+  margin-top: 20px;
+  gap: 10px;
+  
+}
+.firstcontainer img{
+  width: 300px;
+}
+#proo{
+ display: flex;
+ flex-direction: column;
+ justify-content:end;
+}
+.prices{
+color: green;
+}
+.btncıkrt{
+  width: 45%;
+  height: 45px;
+}
+.amaount{
+  padding:0 10px;
+  height: 75px;
+
+  
+}
+.btnekle{
+  width: 45%;
+  background-color: rgb(157, 209, 240);
+  height: 45px;
+  
+}
+ 
+.toplamtutartclasss{
+  font-weight: bold;
+  color: green;
+  font-size: 20px;
+}
+
+
+
